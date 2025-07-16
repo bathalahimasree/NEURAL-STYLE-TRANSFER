@@ -39,3 +39,4 @@ This task helped me understand the importance of summarization in modern AI-powe
 In conclusion, Task 1 allowed me to build a fully functional text summarization tool with real-world utility. It provided an excellent introduction to Hugging Face Transformers and showed me how transformer models like BART can be used for powerful NLP solutions. This experience formed a strong foundation for the remaining tasks in the internship.
 
 **OUTPUT:
+<img width="1265" height="444" alt="Image" src="https://github.com/user-attachments/assets/9fc2db66-f5ce-45aa-bce1-59b3f68da635" />
